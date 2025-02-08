@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SauceDemoSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Login test for Invalid User(failed)">
+    <parameter name="password" value="secret_sauce"/>
+    <parameter name="username" value="standard_user"/>
+    <classes>
+      <class name="com.saucedemo.test.WindowHandleTest">
+        <methods>
+          <include name="setup"/>
+          <include name="testTwitterWindowHandle"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saucedemo.test.WindowHandleTest -->
+    </classes>
+  </test> <!-- Login test for Invalid User(failed) -->
+</suite> <!-- Failed suite [SauceDemoSuite] -->

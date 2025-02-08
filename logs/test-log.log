@@ -1,0 +1,577 @@
+2025-02-08 05:26:38 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:26:41 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:26:43 [main] INFO  BaseTest - Login successful
+2025-02-08 05:26:44 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:26:47 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:26:48 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:26:50 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:26:57 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:30:31 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:30:34 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:30:36 [main] INFO  BaseTest - Login successful
+2025-02-08 05:30:38 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:30:40 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:30:40 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:30:43 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:30:50 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:31:20 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:31:23 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:31:25 [main] INFO  BaseTest - Login successful
+2025-02-08 05:31:34 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:38:45 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:38:49 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:38:51 [main] INFO  BaseTest - Login successful
+2025-02-08 05:38:53 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:38:55 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:38:56 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:38:58 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:39:05 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:42:59 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:43:02 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:43:04 [main] INFO  BaseTest - Login successful
+2025-02-08 05:43:06 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:43:08 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:43:09 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:43:11 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:43:19 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:44:39 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:44:42 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:44:45 [main] INFO  BaseTest - Login successful
+2025-02-08 05:44:46 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:44:48 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:44:49 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:44:51 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:44:59 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:45:38 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:45:41 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:45:43 [main] INFO  BaseTest - Login successful
+2025-02-08 05:45:44 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:45:54 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:49:52 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:49:54 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:49:57 [main] INFO  BaseTest - Login successful
+2025-02-08 05:49:58 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:50:01 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:50:01 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:50:04 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:50:11 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:50:37 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:50:40 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:50:43 [main] INFO  BaseTest - Login successful
+2025-02-08 05:50:44 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:50:46 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:50:47 [main] INFO  LoginTest - Entered invalid credentials
+2025-02-08 05:50:49 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:50:57 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:51:01 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:51:03 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:51:06 [main] INFO  BaseTest - Login successful
+2025-02-08 05:51:07 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:51:10 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:51:10 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:51:12 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:51:20 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:52:49 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:52:51 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:52:54 [main] INFO  BaseTest - Login successful
+2025-02-08 05:52:55 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:52:58 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:52:58 [main] INFO  LoginTest - Entered invalid credentials
+2025-02-08 05:53:01 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:53:08 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 05:53:12 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 05:53:15 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 05:53:17 [main] INFO  BaseTest - Login successful
+2025-02-08 05:53:19 [main] INFO  LoginTest - Clicked on Menu
+2025-02-08 05:53:21 [main] INFO  LoginTest - Clicked on Logout->Landed to Loginpage
+2025-02-08 05:53:21 [main] INFO  LoginTest - Entered lockedout credentials
+2025-02-08 05:53:24 [main] INFO  LoginTest - Performing click on Login
+2025-02-08 05:53:31 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 07:12:14 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:12:16 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:12:19 [main] INFO  BaseTest - Login successful
+2025-02-08 07:12:19 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:12:21 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:12:21 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:15:03 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:15:05 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:15:08 [main] INFO  BaseTest - Login successful
+2025-02-08 07:15:08 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:15:10 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:15:10 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:17:14 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:17:17 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:17:20 [main] INFO  BaseTest - Login successful
+2025-02-08 07:17:20 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:17:22 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:17:23 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:20:10 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:20:12 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:20:15 [main] INFO  BaseTest - Login successful
+2025-02-08 07:20:15 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:20:20 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:20:24 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:20:25 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:22:53 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:22:55 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:22:58 [main] INFO  BaseTest - Login successful
+2025-02-08 07:22:58 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:23:03 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:23:07 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:23:08 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:23:30 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:23:33 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:23:36 [main] INFO  BaseTest - Login successful
+2025-02-08 07:23:36 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:23:41 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:23:45 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:23:45 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:25:11 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:25:13 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:25:16 [main] INFO  BaseTest - Login successful
+2025-02-08 07:25:16 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:25:21 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:25:25 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:25:25 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:28:40 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:28:43 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:28:46 [main] INFO  BaseTest - Login successful
+2025-02-08 07:28:46 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:28:50 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:28:55 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:28:55 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:35:02 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:35:04 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:35:07 [main] INFO  BaseTest - Login successful
+2025-02-08 07:35:07 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:35:12 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:35:16 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 07:35:17 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 07:50:22 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:50:26 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:50:28 [main] INFO  BaseTest - Login successful
+2025-02-08 07:50:28 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:50:33 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:50:37 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+	at com.saucedemo.pages.CartPage.clickCheckout(CartPage.java:48) ~[classes/:?]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:62) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 07:50:37 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 07:59:09 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 07:59:12 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 07:59:15 [main] INFO  BaseTest - Login successful
+2025-02-08 07:59:15 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 07:59:19 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 07:59:27 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='FREE PONY EXPRESS DELIVERY!']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b151b805ff2be5d90bcc1c1c6d55c34c, findElement {using=xpath, value=//div[text()='FREE PONY EXPRESS DELIVERY!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: C:\Users\SUNDRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b151b805ff2be5d90bcc1c1c6d55c34c
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.saucedemo.pages.CheckoutOverviewPage.getShippingInfo(CheckoutOverviewPage.java:35) ~[classes/:?]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 07:59:27 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 08:25:49 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:25:52 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:25:55 [main] INFO  BaseTest - Login successful
+2025-02-08 08:25:55 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:26:00 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:26:05 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:26:07 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='FREE PONY EXPRESS DELIVERY!']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [435459390ca12786e73972b4d903e52d, findElement {value=//div[text()='FREE PONY EXPRESS DELIVERY!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: C:\Users\SUNDRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55886}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55886/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 435459390ca12786e73972b4d903e52d
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.saucedemo.pages.CheckoutOverviewPage.getShippingInfo(CheckoutOverviewPage.java:44) ~[classes/:?]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:88) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 08:26:07 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 08:30:05 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:30:08 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:30:11 [main] INFO  BaseTest - Login successful
+2025-02-08 08:30:11 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:30:16 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:30:21 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:30:23 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+org.openqa.selenium.InvalidSelectorException: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //div[contains(text(),'FREE PONY EXPRESS DELIVERY!']) because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(text(),'FREE PONY EXPRESS DELIVERY!'])' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31db6f7dc74cd4b714273a3141809e59, findElement {value=//div[contains(text(),'FREE PONY EXPRESS DELIVERY!']), using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: C:\Users\SUNDRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55915}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55915/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31db6f7dc74cd4b714273a3141809e59
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.saucedemo.pages.CheckoutOverviewPage.getShippingInfo(CheckoutOverviewPage.java:44) ~[classes/:?]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:88) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 08:30:23 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 08:32:11 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:32:13 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:32:16 [main] INFO  BaseTest - Login successful
+2025-02-08 08:32:16 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:32:21 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:32:26 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:32:28 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'FREE PONY EXPRESS DELIVERY!')]"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [709beff31c8ebb99a4292ac02f15d54e, findElement {value=//div[contains(text(),'FREE PONY EXPRESS DELIVERY!')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: C:\Users\SUNDRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55941}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55941/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 709beff31c8ebb99a4292ac02f15d54e
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.saucedemo.pages.CheckoutOverviewPage.getShippingInfo(CheckoutOverviewPage.java:44) ~[classes/:?]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:88) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 08:32:28 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 08:36:16 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:36:19 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:36:21 [main] INFO  BaseTest - Login successful
+2025-02-08 08:36:22 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:36:26 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:36:32 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:36:34 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+java.lang.AssertionError: expected [FREE PONY EXPRESS DELIVERY!] but found [Free Pony Express Delivery!]
+	at org.testng.Assert.fail(Assert.java:99) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.Assert.failNotEquals(Assert.java:1037) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.Assert.assertEquals(Assert.java:122) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.Assert.assertEquals(Assert.java:629) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.Assert.assertEquals(Assert.java:639) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at com.saucedemo.test.CheckoutTest.testValidCheckoutProcess(CheckoutTest.java:88) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 08:36:34 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 08:37:12 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:37:15 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:37:17 [main] INFO  BaseTest - Login successful
+2025-02-08 08:37:18 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:37:22 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:37:28 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:37:28 [main] INFO  CheckoutTest - scroll to Price
+2025-02-08 08:37:28 [main] INFO  CheckoutTest - Checkout Overview verified
+2025-02-08 08:37:30 [main] INFO  CheckoutTest - Order placed successfully
+2025-02-08 08:37:32 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:37:32 [main] INFO  CheckoutTest - Click on BackHome button
+2025-02-08 08:37:35 [main] INFO  CheckoutTest - Landed on Product Page
+2025-02-08 08:37:37 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 08:37:37 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 08:39:54 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:39:57 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:39:59 [main] INFO  BaseTest - Login successful
+2025-02-08 08:40:00 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:40:04 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:40:10 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:40:10 [main] INFO  CheckoutTest - scroll to Price
+2025-02-08 08:40:10 [main] INFO  CheckoutTest - Checkout Overview verified
+2025-02-08 08:40:12 [main] INFO  CheckoutTest - Order placed successfully
+2025-02-08 08:40:14 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:40:14 [main] INFO  CheckoutTest - Click on BackHome button
+2025-02-08 08:40:17 [main] INFO  CheckoutTest - Landed on Product Page
+2025-02-08 08:40:19 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 08:40:20 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 08:46:48 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 08:46:51 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 08:46:53 [main] INFO  BaseTest - Login successful
+2025-02-08 08:46:53 [main] INFO  CheckoutTest - Selecting product: Sauce Labs Bolt T-Shirt
+2025-02-08 08:46:58 [main] INFO  CheckoutTest - Cart verification successful
+2025-02-08 08:47:04 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:47:04 [main] INFO  CheckoutTest - scroll to Price
+2025-02-08 08:47:04 [main] INFO  CheckoutTest - Checkout Overview verified
+2025-02-08 08:47:06 [main] INFO  CheckoutTest - Order placed successfully
+2025-02-08 08:47:08 [main] INFO  CheckoutTest - scroll to top
+2025-02-08 08:47:09 [main] INFO  CheckoutTest - Click on BackHome button
+2025-02-08 08:47:11 [main] INFO  CheckoutTest - Landed on Product Page
+2025-02-08 08:47:13 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 08:47:16 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 09:20:35 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 09:20:38 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 09:20:40 [main] INFO  BaseTest - Login successful
+2025-02-08 09:20:40 [main] INFO  WindowHandleTest - Scroll to Twitter icon
+2025-02-08 09:20:43 [main] ERROR BaseTest - Test failed due to assertion or exception: 
+java.lang.NullPointerException: Cannot invoke "com.saucedemo.pages.MenuAndFooterPage.scrollToTwitter()" because "this.menuAndFooterPage" is null
+	at com.saucedemo.test.WindowHandleTest.testTwitterWindowHandle(WindowHandleTest.java:31) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [org.testng_7.4.0.r202105021533.jar:7.4.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2025-02-08 09:20:43 [main] INFO  BaseTest - Menu button not found or test failed, skipping logout
+2025-02-08 09:26:22 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 09:26:25 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 09:26:28 [main] INFO  BaseTest - Login successful
+2025-02-08 09:26:28 [main] INFO  WindowHandleTest - Scroll to Twitter icon
+2025-02-08 09:26:28 [main] INFO  WindowHandleTest - Clicking on Twitter link...
+2025-02-08 09:26:44 [main] INFO  WindowHandleTest - Twitter page verification successful
+2025-02-08 09:26:46 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 09:26:48 [main] INFO  BaseTest - Click on Logout->Logout successful
+2025-02-08 09:29:02 [main] INFO  BaseTest - Navigated to SauceDemo Login Page
+2025-02-08 09:29:05 [main] INFO  BaseTest - Entered login credentials
+2025-02-08 09:29:07 [main] INFO  BaseTest - Login successful
+2025-02-08 09:29:09 [main] INFO  WindowHandleTest - Scroll to Twitter icon
+2025-02-08 09:29:12 [main] INFO  WindowHandleTest - Clicking on Twitter link...
+2025-02-08 09:29:29 [main] INFO  WindowHandleTest - Twitter page verification successful
+2025-02-08 09:29:31 [main] INFO  BaseTest - Opened Menu Bar
+2025-02-08 09:29:33 [main] INFO  BaseTest - Click on Logout->Logout successful
