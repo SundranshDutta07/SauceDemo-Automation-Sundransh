@@ -60,7 +60,7 @@ Design Pattern: Page Object Model (POM)
 -Google Chrome
 
 ### Clone the Repository
-git clone https://github.com/yourusername/SauceDemo.git
+git clone https://github.com/SundranshDutta07/SauceDemo-Automation-Sundransh.git
 cd SauceDemo
 
 
